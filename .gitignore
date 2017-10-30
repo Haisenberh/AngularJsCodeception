@@ -1,0 +1,8 @@
+# IntelliJ project files
+.idea
+_data
+_output
+chromedriver
+codecept.phar
+selenium-server-standalone-3.6.0.jar
+_support/_generated
